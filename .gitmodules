@@ -1,0 +1,4 @@
+[submodule "CybroOdoo/CybroAddons/salon_management"]
+	path = CybroOdoo/CybroAddons/salon_management
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 10.0
