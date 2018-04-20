@@ -2,3 +2,8 @@
 	path = CybroOdoo/CybroAddons/salon_management
 	url = git@github.com:CybroOdoo/CybroAddons.git
 	branch = 10.0
+
+[submodule "OCA/web/web_timeline"]
+	path = OCA/web/web_timeline
+	url = git@github.com:OCA/web.git
+	branch = 10.0
